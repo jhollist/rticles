@@ -1,0 +1,4 @@
+name: Draft Microsoft Word Article
+description: >
+  Template for a draft scientific article with MS Word as the output.
+create_dir: true
